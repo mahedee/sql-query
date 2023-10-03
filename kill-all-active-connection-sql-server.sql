@@ -1,7 +1,7 @@
 ----Kill all active connection----
 
-USE	MASTER
-GO
+--USE	MASTER
+--GO
  
 DECLARE	@Spid INT
 DECLARE	@ExecSQL VARCHAR(255)
